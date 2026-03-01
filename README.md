@@ -2,6 +2,8 @@
 
 A local AI agent that evaluates procurement bids against a tender document and produces scored, reasoned recommendations — entirely on-device using Microsoft Foundry Local.
 
+![Process Flow](tender-decision-agent-architecture.png)
+
 ---
 
 ## How It Works
